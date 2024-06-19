@@ -1,31 +1,14 @@
-<!DOCTYPE html>
-
-<style>
-  .column {
-    float: left;
-    width: 33.33%;
-    padding: 5px;
-  }
-  .row::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
-</style>
-
-<body>
-
 <div align="center">
 
-  <h2>📫 Contact</h2>
+## 📫 Contact
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord Icon">
-  </a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=discord"/>
+</a>
 
-  <h2>Skills</h2>
+## Skills
 
-  <h3>Languages</h3>
+### Languages
 
 </div>
 
@@ -49,9 +32,6 @@
           />
   </div>
 </div>
-
-</body>
-</html>
 
 
 
