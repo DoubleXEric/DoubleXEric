@@ -10,6 +10,8 @@
 
 ### Languages
 
+</div>
+
 <div id="banner" style="overflow: hidden; display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
   <div style="text-align: center;">
       <img src="./images/cpp-logo.svg"
@@ -37,7 +39,7 @@
 
 
 
-</div>
+
 
 <!--
 **DoubleXEric/DoubleXEric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
