@@ -1,15 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-# 📫 Contact
+## 📫 Contact
 
-# Skills
+## Skills
 
-<p align="center">
+### Languages
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,c,cs,cpp,java,py"/>
+    <img src="https://skillicons.dev/icons?i=cs,cpp,java,py"/>
   </a>
-</p>
 
+</div>
 <!--
 **DoubleXEric/DoubleXEric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
