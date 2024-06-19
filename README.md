@@ -2,13 +2,19 @@
 
 ## 📫 Contact
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=discord"/>
+</a>
+
 ## Skills
 
 ### Languages
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,java,py"/>
-  </a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,py"/>
+</a>
+
+
 
 </div>
 <!--
