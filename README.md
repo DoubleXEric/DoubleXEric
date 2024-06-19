@@ -12,30 +12,37 @@
 
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
 
-  <div style="margin: 0 auto;">
+  <div style="text-align: center; margin: 10px;">
     <img src="./images/cpp-logo.svg"
           style="width: 100px; height: 100px;"
           alt="C++ Logo"
           />
+    <br />
+    <span>C++</span>
   </div>
   
-  <div style="margin: 0 auto;">
+  <div style="text-align: center; margin: 10px;">
     <img src="./images/erlang-logo.svg"
           style="width: 100px; height: 100px;"
           alt="Erlang Logo"
           />
+    <br />
+    <span>Erlang</span>
   </div>
   
-  <div style="margin: 0 auto;">
+  <div style="text-align: center; margin: 10px;">
     <img src="./images/java-logo.svg"
           style="width: 100px; height: 100px;"
           alt="Java Logo"
           />
+    <br />
+    <span>Java</span>
   </div>
 
 </div>
+
 
 
 
