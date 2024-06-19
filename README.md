@@ -10,28 +10,29 @@
 
 ### Languages
 
-<div id="banner" style="overflow: hidden; display: flex; justify-content: space-around; align-items: center;">
-  <div style="flex: 1; text-align: center;">
+<div id="banner" style="overflow: hidden; display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
+  <div style="text-align: center;">
       <img src="./images/cpp-logo.svg"
           style="width: 100px; height: 100px;"
           alt="C++ Logo"
           />
   </div>
   
-  <div style="flex: 1; text-align: center;">
+  <div style="text-align: center;">
       <img src="./images/erlang-logo.svg"
           style="width: 100px; height: 100px;"
           alt="Erlang Logo"
           />
   </div>
   
-  <div style="flex: 1; text-align: center;">
+  <div style="text-align: center;">
       <img src="./images/java-logo.svg"
           style="width: 100px; height: 100px;"
           alt="Java Logo"
           />
   </div>
 </div>
+
 
 
 
