@@ -1,14 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  /* Three image containers (use 25% for four, and 50% for two, etc) */
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+</style>
+<title>Skills and Logos</title>
+</head>
+<body>
+
 <div align="center">
 
-## 📫 Contact
+  <h2>📫 Contact</h2>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=discord"/>
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord Icon">
+  </a>
 
-## Skills
+  <h2>Skills</h2>
 
-### Languages
+  <h3>Languages</h3>
 
 </div>
 
@@ -33,6 +57,8 @@
   </div>
 </div>
 
+</body>
+</html>
 
 
 
