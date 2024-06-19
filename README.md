@@ -11,7 +11,7 @@
 ### Languages
 
 <!-- ![Alt text](./cpp-logo.svg) -->
-<img src="./cpp-logo.svg"
+<img src="./images/cpp-logo.svg"
   width="6%"
   height="auto"
   />
