@@ -10,9 +10,8 @@
 
 ### Languages
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java,py"/>
-</a>
+![Alt text](./cpp-logo.svg)
+<img src="./cpp-logo.svg">
 
 
 
