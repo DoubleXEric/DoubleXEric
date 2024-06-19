@@ -12,17 +12,17 @@
 </div>
 
 <p float="left">
-  <img src="./images/cpp-logo.svg"
+  <img src="./assets/cpp-logo.png"
         style="width: 50px; height: 50px;"
         alt="C++ Logo"
         />
 
-  <img src="./images/erlang-logo.svg"
+  <img src="./assets/erlang-logo.png"
         style="width: 50px; height: 50px;"
         alt="Erlang Logo"
         />
 
-  <img src="./images/java-logo.svg"
+  <img src="./assets/java-logo.png"
         style="width: 50px; height: 50px;"
         alt="Java Logo"
         />
