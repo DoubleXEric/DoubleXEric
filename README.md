@@ -10,28 +10,29 @@
 
 ### Languages
 
-<div id="banner" style="overflow: hidden;justify-content:space-around;">
-<div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
-    <img src="./images/cpp-logo.svg"
-        width="100px"
-        height="auto"
-        />
+<div id="banner" style="overflow: hidden; display: flex; justify-content: space-around; align-items: center;">
+  <div style="max-width: 20%; max-height: 20%; display: inline-block; text-align: center;">
+      <img src="./images/cpp-logo.svg"
+          style="max-width: 100px; height: auto;"
+          alt="C++ Logo"
+          />
+  </div>
+  
+  <div style="max-width: 20%; max-height: 20%; display: inline-block; text-align: center;">
+      <img src="./images/erlang-logo.svg"
+          style="max-width: 100px; height: auto;"
+          alt="Erlang Logo"
+          />
+  </div>
+  
+  <div style="max-width: 20%; max-height: 20%; display: inline-block; text-align: center;">
+      <img src="./images/java-logo.svg"
+          style="max-width: 100px; height: auto;"
+          alt="Java Logo"
+          />
+  </div>
 </div>
 
-<div class="" style="max-width: 100%;max-height: 100%;display: inline-block;">
-    <img src="./images/erlang-logo.svg"
-        width="100px"
-        height="auto"
-        />
-</div>
-
-<div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
-    <img src="./images/java-logo.svg"
-        width="100px"
-        height="auto"
-        />
-</div>
-</div>
 
 
 </div>
