@@ -12,28 +12,27 @@
 
 </div>
 
-<div id="banner" style="overflow: hidden; display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
-  <div style="text-align: center;">
-      <img src="./images/cpp-logo.svg"
+<div class="row">
+  <div class="column">
+    <img src="./images/cpp-logo.svg"
           style="width: 100px; height: 100px;"
           alt="C++ Logo"
           />
   </div>
-  
-  <div style="text-align: center;">
-      <img src="./images/erlang-logo.svg"
+  <div class="column">
+    <img src="./images/erlang-logo.svg"
           style="width: 100px; height: 100px;"
           alt="Erlang Logo"
           />
   </div>
-  
-  <div style="text-align: center;">
-      <img src="./images/java-logo.svg"
+  <div class="column">
+    <img src="./images/java-logo.svg"
           style="width: 100px; height: 100px;"
           alt="Java Logo"
           />
   </div>
 </div>
+
 
 
 
