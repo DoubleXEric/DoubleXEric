@@ -12,7 +12,7 @@
 
 
 
-<p float="left">
+<p float="center">
   <img src="./images/cpp-logo.svg"
         style="width: 50px; height: 50px;"
         alt="C++ Logo"
