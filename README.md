@@ -12,7 +12,7 @@
 
 <!-- ![Alt text](./cpp-logo.svg) -->
 <img src="./cpp-logo.svg"
-  width="8%"
+  width="7%"
   height="auto"
   />
 
