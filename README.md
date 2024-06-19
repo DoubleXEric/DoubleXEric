@@ -24,7 +24,7 @@
   
   <div style="text-align: center; margin: 10px;">
     <img src="./images/erlang-logo.svg"
-          style="width: 100px; height: 100px;"
+          style="width: 50px; height: 50px;"
           alt="Erlang Logo"
           />
     <br />
@@ -32,7 +32,7 @@
   
   <div style="text-align: center; margin: 10px;">
     <img src="./images/java-logo.svg"
-          style="width: 100px; height: 100px;"
+          style="width: 50px; height: 50px;"
           alt="Java Logo"
           />
     <br />
