@@ -12,33 +12,22 @@
 
 
 
-<div style="display: flex">
+<p float="left">
+  <img src="./images/cpp-logo.svg"
+        style="width: 50px; height: 50px;"
+        alt="C++ Logo"
+        />
 
-  <div style="text-align: center; margin: 10px;">
-    <img src="./images/cpp-logo.svg"
-          style="width: 50px; height: 50px;"
-          alt="C++ Logo"
-          />
-    <br />
-  </div>
-  
-  <div style="text-align: center; margin: 10px;">
-    <img src="./images/erlang-logo.svg"
-          style="width: 50px; height: 50px;"
-          alt="Erlang Logo"
-          />
-    <br />
-  </div>
-  
-  <div style="text-align: center; margin: 10px;">
-    <img src="./images/java-logo.svg"
-          style="width: 50px; height: 50px;"
-          alt="Java Logo"
-          />
-    <br />
-  </div>
+  <img src="./images/erlang-logo.svg"
+        style="width: 50px; height: 50px;"
+        alt="Erlang Logo"
+        />
 
-</div>
+  <img src="./images/java-logo.svg"
+        style="width: 50px; height: 50px;"
+        alt="Java Logo"
+        />
+</p>
 
 </div>
 
