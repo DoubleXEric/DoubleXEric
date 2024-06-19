@@ -10,8 +10,11 @@
 
 ### Languages
 
-![Alt text](./cpp-logo.svg)
-<img src="./cpp-logo.svg">
+<!-- ![Alt text](./cpp-logo.svg) -->
+<img src="./cpp-logo.svg"
+  width: 10%;
+  heigth: auto;
+  />
 
 
 
