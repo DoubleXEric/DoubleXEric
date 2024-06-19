@@ -11,25 +11,7 @@
 ### Languages
 </div>
 
-<p float="left">
-  <img src="./assets/cpp-logo.png"
-        style="width: 50px; height: 50px;"
-        alt="C++ Logo"
-        />
-
-  <img src="./assets/erlang-logo.png"
-        style="width: 50px; height: 50px;"
-        alt="Erlang Logo"
-        />
-
-  <img src="./assets/java-logo.png"
-        style="width: 50px; height: 50px;"
-        alt="Java Logo"
-        />
-</p>
-
-
-
+<img src="./assets/cpp-logo.png" style="width: 50px; height: 50px;" alt="C++ Logo"/> <img src="./assets/erlang-logo.png" style="width: 50px; height: 50px;" alt="Erlang Logo"/> <img src="./assets/java-logo.png" style="width: 50px; height: 50px;" alt="Java Logo"/>
 
 
 
