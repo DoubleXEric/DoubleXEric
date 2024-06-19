@@ -10,21 +10,6 @@
 
 ### Languages
 
-
-<div id="banner">
-  <div class="inline-block">
-      
-  </div>
-
-  <div class="inline-block">
-      
-  </div>
-
-  <div class="inline-block">
-      
-  </div>
-</div>
-
 <div id="banner" style="overflow: hidden;justify-content:space-around;">
 <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
     <img src="./images/cpp-logo.svg"
