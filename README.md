@@ -9,33 +9,47 @@
 ## Skills
 
 ### Languages
-</div>
+
 
 <div id="banner">
   <div class="inline-block">
-      <img src="./images/cpp-logo.svg"
-        width="100px"
-        height="auto"
-        />
+      
   </div>
 
   <div class="inline-block">
-      <img src="./images/erlang-logo.svg"
-        width="100px"
-        height="auto"
-        />
+      
   </div>
 
   <div class="inline-block">
-      <img src="./images/java-logo.svg"
-        width="100px"
-        height="auto"
-        />
+      
   </div>
 </div>
 
+<div id="banner" style="overflow: hidden;justify-content:space-around;">
+<div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
+    <img src="./images/cpp-logo.svg"
+        width="100px"
+        height="auto"
+        />
+</div>
+
+<div class="" style="max-width: 100%;max-height: 100%;display: inline-block;">
+    <img src="./images/erlang-logo.svg"
+        width="100px"
+        height="auto"
+        />
+</div>
+
+<div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
+    <img src="./images/java-logo.svg"
+        width="100px"
+        height="auto"
+        />
+</div>
+</div>
 
 
+</div>
 
 <!--
 **DoubleXEric/DoubleXEric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
