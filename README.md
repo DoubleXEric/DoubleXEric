@@ -9,7 +9,7 @@
 ## Skills
 
 ### Languages
-
+</div>
 
 <div id="banner">
   <div class="inline-block">
@@ -35,7 +35,7 @@
 </div>
 
 
-</div>
+
 
 <!--
 **DoubleXEric/DoubleXEric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
