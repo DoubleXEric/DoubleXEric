@@ -11,7 +11,22 @@
 ### Languages
 </div>
 
-![alt-text-1](./images/cpp-logo.svg "title-1") ![alt-text-2](./images/erlang-logo.svg "title-2")
+<p float="left">
+  <img src="./images/cpp-logo.svg"
+        style="width: 50px; height: 50px;"
+        alt="C++ Logo"
+        />
+
+  <img src="./images/erlang-logo.svg"
+        style="width: 50px; height: 50px;"
+        alt="Erlang Logo"
+        />
+
+  <img src="./images/java-logo.svg"
+        style="width: 50px; height: 50px;"
+        alt="Java Logo"
+        />
+</p>
 
 
 
