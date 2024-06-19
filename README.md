@@ -9,7 +9,7 @@
 ## Skills
 
 ### Languages
-
+</div>
 
 
 <p float="center">
@@ -29,7 +29,7 @@
         />
 </p>
 
-</div>
+
 
 
 
