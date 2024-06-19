@@ -1,12 +1,12 @@
 <div align="center">
 
-# 📫 Contact
+# Contact 📫
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=discord"/>
 </a>
 
-# Skills
+# Skills 🔧
 
 ## Languages
 
