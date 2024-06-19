@@ -10,16 +10,33 @@
 
 ### Languages
 
-<!-- ![Alt text](./cpp-logo.svg) -->
-<img src="./images/cpp-logo.svg"
-  width="6%"
-  height="auto"
-  />
 
+<div id="banner">
+  <div class="inline-block">
+      <img src="./images/cpp-logo.svg"
+        width="100px"
+        height="auto"
+        />
+  </div>
 
+  <div class="inline-block">
+      <img src="./images/erlang-logo.svg"
+        width="100px"
+        height="auto"
+        />
+  </div>
+
+  <div class="inline-block">
+      <img src="./images/java-logo.svg"
+        width="100px"
+        height="auto"
+        />
+  </div>
+</div>
 
 
 </div>
+
 <!--
 **DoubleXEric/DoubleXEric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
