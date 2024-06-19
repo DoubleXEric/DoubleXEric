@@ -6,13 +6,10 @@
   <img src="https://skillicons.dev/icons?i=discord"/>
 </a>
 
-# Skills 🔧
+# Skills 💡
 
 ## Languages
 &nbsp;
-
-
-
 <img src="./assets/cpp-logo.png" style="width: 70px; height: auto;" alt="C++ Logo"/>   <img src="./assets/erlang-logo.png" style="width: 70px; height: auto;" alt="Erlang Logo"/>   <img src="./assets/java-logo.png" style="width: 70px; height: auto;" alt="Java Logo"/>
 
 
