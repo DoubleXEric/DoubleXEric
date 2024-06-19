@@ -11,27 +11,28 @@
 ### Languages
 
 <div id="banner" style="overflow: hidden; display: flex; justify-content: space-around; align-items: center;">
-  <div style="max-width: 20%; max-height: 20%; display: inline-block; text-align: center;">
+  <div style="flex: 1; text-align: center;">
       <img src="./images/cpp-logo.svg"
-          style="max-width: 100px; height: auto;"
+          style="width: 100px; height: 100px;"
           alt="C++ Logo"
           />
   </div>
   
-  <div style="max-width: 20%; max-height: 20%; display: inline-block; text-align: center;">
+  <div style="flex: 1; text-align: center;">
       <img src="./images/erlang-logo.svg"
-          style="max-width: 100px; height: auto;"
+          style="width: 100px; height: 100px;"
           alt="Erlang Logo"
           />
   </div>
   
-  <div style="max-width: 20%; max-height: 20%; display: inline-block; text-align: center;">
+  <div style="flex: 1; text-align: center;">
       <img src="./images/java-logo.svg"
-          style="max-width: 100px; height: auto;"
+          style="width: 100px; height: 100px;"
           alt="Java Logo"
           />
   </div>
 </div>
+
 
 
 
