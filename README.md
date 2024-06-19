@@ -12,7 +12,7 @@
 
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex;">
 
   <div style="text-align: center; margin: 10px;">
     <img src="./images/cpp-logo.svg"
