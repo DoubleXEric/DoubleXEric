@@ -12,26 +12,31 @@
 
 </div>
 
-<div class="row">
-  <div class="column">
+<div style="display: flex; justify-content: center;">
+
+  <div style="margin: 0 auto;">
     <img src="./images/cpp-logo.svg"
           style="width: 100px; height: 100px;"
           alt="C++ Logo"
           />
   </div>
-  <div class="column">
+  
+  <div style="margin: 0 auto;">
     <img src="./images/erlang-logo.svg"
           style="width: 100px; height: 100px;"
           alt="Erlang Logo"
           />
   </div>
-  <div class="column">
+  
+  <div style="margin: 0 auto;">
     <img src="./images/java-logo.svg"
           style="width: 100px; height: 100px;"
           alt="Java Logo"
           />
   </div>
+
 </div>
+
 
 
 
