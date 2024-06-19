@@ -1,10 +1,7 @@
 <div align="center">
 
 # Contact 📫
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=discord"/>
-</a>
+&nbsp;
 
 # Skills 💡
 
