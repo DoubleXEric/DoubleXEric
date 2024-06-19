@@ -16,7 +16,7 @@
 
   <div style="text-align: center; margin: 10px;">
     <img src="./images/cpp-logo.svg"
-          style="width: 100px; height: 100px;"
+          style="width: 50px; height: 50px;"
           alt="C++ Logo"
           />
     <br />
