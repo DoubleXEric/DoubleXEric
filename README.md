@@ -20,7 +20,6 @@
           alt="C++ Logo"
           />
     <br />
-    <span>C++</span>
   </div>
   
   <div style="text-align: center; margin: 10px;">
@@ -29,7 +28,6 @@
           alt="Erlang Logo"
           />
     <br />
-    <span>Erlang</span>
   </div>
   
   <div style="text-align: center; margin: 10px;">
@@ -38,7 +36,6 @@
           alt="Java Logo"
           />
     <br />
-    <span>Java</span>
   </div>
 
 </div>
