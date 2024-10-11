@@ -4,7 +4,7 @@
 
 ## ⌨️ Programming languages
 &nbsp;
-<img src="./assets/cpp-logo.png" style="width: 70px; height: auto;" alt="C++ Logo"/> <img src="./assets/erlang-logo.png" style="width: 70px; height: auto;" alt="Erlang Logo"/> <img src="./assets/java-logo.png" style="width: 70px; height: auto;" alt="Java Logo"/> <img src="./assets/python-logo.png" style="width: 70px; height: auto;" alt="Python Logo"/>
+<img src="./assets/cpp-logo.png" style="width: 70px; height: auto;" alt="C++ Logo"/> <img  src="./assets/erlang-logo.png" style="width: 70px; height: auto;" alt="Erlang Logo" hidden/> <img src="./assets/java-logo.png" style="width: 70px; height: auto;" alt="Java Logo"/> <img src="./assets/python-logo.png" style="width: 70px; height: auto;" alt="Python Logo"/>
 
 ## 📊 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=doublexeric&show_icons=true&locale=en&layout=compact&langs_count=8&hide=tex,html,css,swift)](https://github.com/doublexeric)
