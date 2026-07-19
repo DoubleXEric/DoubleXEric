@@ -68,13 +68,10 @@ $ cat about_me.txt
 
 <br/>
 
-## 🏆 Trophy Case
+## ⚡ Recent Activity
 
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/?username=DoubleXEric&theme=matrix&no-frame=true&margin-w=10&row=1&column=7" alt="trophies"/>
-
-</div>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br/>
 
@@ -90,26 +87,8 @@ $ cat about_me.txt
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DoubleXEric/DoubleXEric/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DoubleXEric/DoubleXEric/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/DoubleXEric/DoubleXEric/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<sub>⚙️ Needs a one-time setup — see <code>snake.yml</code> workflow below.</sub>
-
-</div>
-
 <br/>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:0D1117&height=120&section=footer" width="100%"/>
-
-<sub>Compiled with ❤️ and probably too much coffee</sub>
-
 </div>
