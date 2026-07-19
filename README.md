@@ -23,7 +23,6 @@ $ cat about_me.txt
 🤖 Exploring LLM integration in software
 🧠 Coding with Claude Code & Codex
 🔌 Tinkering with Arduino & Home Assistant on the side
-🌱 Always learning, always shipping
 
 ```
 
@@ -66,21 +65,12 @@ $ cat about_me.txt
 
 <br/>
 
-<br/>
-
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<br/>
 
 ## 📌 Featured Project
-
+ 
 <div align="center">
-
-<a href="https://github.com/DoubleXEric/awesome-everything">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DoubleXEric&repo=awesome-everything&hide_border=true&cache_seconds=86400&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&bg_color=0D1117" alt="awesome-everything"/>
+<a href="https://github.com/DoubleXEric/ludo">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=DoubleXEric&repo=ludo&hide_border=true&show_icons=false&cache_seconds=86400&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&bg_color=0D1117" alt="ludo"/>
 </a>
 
 </div>
@@ -89,6 +79,4 @@ $ cat about_me.txt
 
 <br/>
 
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:0D1117&height=120&section=footer" width="100%"/>
-</div>
